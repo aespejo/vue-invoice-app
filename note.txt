@@ -1,0 +1,2 @@
+## Node Version - 16.14.0
+## NPM Version 8.3.1
